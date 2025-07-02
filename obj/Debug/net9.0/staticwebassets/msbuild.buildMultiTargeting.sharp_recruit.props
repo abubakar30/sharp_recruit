@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sharp_recruit.props" />
+</Project>
