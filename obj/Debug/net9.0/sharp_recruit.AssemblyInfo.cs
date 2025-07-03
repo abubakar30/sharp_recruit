@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sharp_recruit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2506162e9c1aec34fb2787013763a2427c3fe43f")]
 [assembly: System.Reflection.AssemblyProductAttribute("sharp_recruit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sharp_recruit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

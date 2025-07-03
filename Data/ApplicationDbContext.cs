@@ -11,5 +11,15 @@ namespace sharp_recruit.Data
 
         // Add your DB sets here
         public DbSet<Candidate> Candidates { get; set; }
+        public DbSet<User> Users { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder); // Keep this to preserve default behavior
+
+            modelBuilder.Entity<User>()
+                .Property(u => u.Role)
+                .HasDefaultValue("User");
+        }
     }
 }
