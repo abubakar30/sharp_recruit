@@ -5,6 +5,8 @@ using sharp_recruit.DTO;
 
 namespace sharp_recruit.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class JobApplicationController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -14,16 +16,15 @@ namespace sharp_recruit.Controllers
             _context = context;
         }
 
-        [HttpGet]
+        [HttpGet("get_job_application")]
         public IActionResult GetJobApplications()
         {
             var applications = _context.JobApplications.ToList();
             return Ok(applications);
         }
 
-        [HttpPost]
+        [HttpPost("create")]
         // [Consumes("multipart/form-data")]
-        [Route("api/job_application")]
         public async Task<IActionResult> CreateJobApplication([FromForm] JobApplicationDto application)
         {
             if (!ModelState.IsValid)

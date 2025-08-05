@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sharp_recruit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c9061c6676a2554957023948857a68bbbc07c5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+469a0a866ec85e6e7c46ca3d257b4666c8d36a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("sharp_recruit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sharp_recruit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

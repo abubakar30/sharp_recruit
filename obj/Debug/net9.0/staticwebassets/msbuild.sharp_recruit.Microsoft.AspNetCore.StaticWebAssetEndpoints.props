@@ -768,5 +768,41 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gfw42o1wwb"},{"Name":"integrity","Value":"sha256-1NBWRw58hSrWPdUzRnZx4cR9QNW3dPz/axoZj97jbms="},{"Name":"label","Value":"_content/sharp_recruit/sharp_recruit.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221NBWRw58hSrWPdUzRnZx4cR9QNW3dPz/axoZj97jbms=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Jul 2025 04:50:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/sharp_recruit/uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).7zgslripvt.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7zgslripvt"},{"Name":"integrity","Value":"sha256-DdqbXA8UvYK86y5\u002BAnJOCDQB1sb0Ch1/96sLzJZTpXI="},{"Name":"label","Value":"_content/sharp_recruit/uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"130810"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022DdqbXA8UvYK86y5\u002BAnJOCDQB1sb0Ch1/96sLzJZTpXI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Aug 2025 08:09:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/sharp_recruit/uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DdqbXA8UvYK86y5\u002BAnJOCDQB1sb0Ch1/96sLzJZTpXI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"130810"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022DdqbXA8UvYK86y5\u002BAnJOCDQB1sb0Ch1/96sLzJZTpXI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Aug 2025 08:09:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/sharp_recruit/uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wdrCg8wXtLSlI/DnCw\u002Bb4sIPlBbiHWFP79mBiKDlW4E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2300432"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wdrCg8wXtLSlI/DnCw\u002Bb4sIPlBbiHWFP79mBiKDlW4E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Aug 2025 07:59:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/sharp_recruit/uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.vcr7rxwm12.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vcr7rxwm12"},{"Name":"integrity","Value":"sha256-wdrCg8wXtLSlI/DnCw\u002Bb4sIPlBbiHWFP79mBiKDlW4E="},{"Name":"label","Value":"_content/sharp_recruit/uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2300432"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wdrCg8wXtLSlI/DnCw\u002Bb4sIPlBbiHWFP79mBiKDlW4E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Aug 2025 07:59:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/sharp_recruit/uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wdrCg8wXtLSlI/DnCw\u002Bb4sIPlBbiHWFP79mBiKDlW4E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2300432"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wdrCg8wXtLSlI/DnCw\u002Bb4sIPlBbiHWFP79mBiKDlW4E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Aug 2025 08:04:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/sharp_recruit/uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.vcr7rxwm12.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vcr7rxwm12"},{"Name":"integrity","Value":"sha256-wdrCg8wXtLSlI/DnCw\u002Bb4sIPlBbiHWFP79mBiKDlW4E="},{"Name":"label","Value":"_content/sharp_recruit/uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2300432"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wdrCg8wXtLSlI/DnCw\u002Bb4sIPlBbiHWFP79mBiKDlW4E=\u0022"},{"Name":"Last-Modified","Value":"Tue, 05 Aug 2025 08:04:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

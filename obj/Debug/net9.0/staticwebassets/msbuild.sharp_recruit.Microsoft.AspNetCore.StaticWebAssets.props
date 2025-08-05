@@ -1152,5 +1152,59 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sharp_recruit.gfw42o1wwb.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>sharp_recruit</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/sharp_recruit</BasePath>
+      <RelativePath>uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7zgslripvt</Fingerprint>
+      <Integrity>DdqbXA8UvYK86y5+AnJOCDQB1sb0Ch1/96sLzJZTpXI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>sharp_recruit</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/sharp_recruit</BasePath>
+      <RelativePath>uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vcr7rxwm12</Fingerprint>
+      <Integrity>wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>sharp_recruit</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/sharp_recruit</BasePath>
+      <RelativePath>uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vcr7rxwm12</Fingerprint>
+      <Integrity>wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

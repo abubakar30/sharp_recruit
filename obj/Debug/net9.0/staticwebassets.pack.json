@@ -257,6 +257,18 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Projects\\sharp_recruit\\wwwroot\\uploads\\0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf",
+      "PackagePath": "staticwebassets\\uploads\\0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf"
+    },
+    {
+      "Id": "C:\\Projects\\sharp_recruit\\wwwroot\\uploads\\63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf",
+      "PackagePath": "staticwebassets\\uploads\\63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf"
+    },
+    {
+      "Id": "C:\\Projects\\sharp_recruit\\wwwroot\\uploads\\797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf",
+      "PackagePath": "staticwebassets\\uploads\\797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.sharp_recruit.props",
       "PackagePath": "build\\sharp_recruit.props"
     },

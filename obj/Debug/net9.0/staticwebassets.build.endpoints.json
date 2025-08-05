@@ -18857,6 +18857,252 @@
           "Value": "sha256-IanorRSIkm70B7oxIx9pEGg3huqUpA+9HaTuYOn0L38="
         }
       ]
+    },
+    {
+      "Route": "uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).7zgslripvt.pdf",
+      "AssetFile": "uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DdqbXA8UvYK86y5+AnJOCDQB1sb0Ch1/96sLzJZTpXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 08:09:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7zgslripvt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DdqbXA8UvYK86y5+AnJOCDQB1sb0Ch1/96sLzJZTpXI="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf",
+      "AssetFile": "uploads/0515b5b3-c166-468b-9a50-853298b0ff2c_IMAS MARA SUMBER MANUSIA (SHARE).pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DdqbXA8UvYK86y5+AnJOCDQB1sb0Ch1/96sLzJZTpXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 08:09:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DdqbXA8UvYK86y5+AnJOCDQB1sb0Ch1/96sLzJZTpXI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf",
+      "AssetFile": "uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2300432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 07:59:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.vcr7rxwm12.pdf",
+      "AssetFile": "uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2300432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 07:59:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vcr7rxwm12"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/63356b73-cc1a-4889-a51e-172769f12227_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf",
+      "AssetFile": "uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2300432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 08:04:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.vcr7rxwm12.pdf",
+      "AssetFile": "uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2300432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 05 Aug 2025 08:04:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vcr7rxwm12"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wdrCg8wXtLSlI/DnCw+b4sIPlBbiHWFP79mBiKDlW4E="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/797341f9-2cb8-48e8-baf2-3be7d2379059_ERP_MARA_URS_GAJI_v1.2_20250731 - KPMG Review  04082025.pdf"
+        }
+      ]
     }
   ]
 }
