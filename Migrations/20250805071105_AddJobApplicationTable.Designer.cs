@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using sharp_recruit.Data;
 
@@ -11,9 +12,11 @@ using sharp_recruit.Data;
 namespace sharp_recruit.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250805071105_AddJobApplicationTable")]
+    partial class AddJobApplicationTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -112,7 +115,7 @@ namespace sharp_recruit.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("job_applications", (string)null);
+                    b.ToTable("JobApplications");
                 });
 #pragma warning restore 612, 618
         }

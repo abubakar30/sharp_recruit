@@ -22,19 +22,7 @@ builder.Services.AddCors(options =>
 
 builder.Services.AddControllers(); // For API controllers
 
-builder.Services.AddCors(options =>
-{
-    options.AddDefaultPolicy(policy =>
-    {
-        policy.WithOrigins("http://localhost:5173")
-              .AllowAnyHeader()
-              .AllowAnyMethod();
-    });
-});
-
 var app = builder.Build();
-
-app.MapControllers(); // Enables routing for [ApiController]
 
 app.UseCors("AllowFrontend");
 
@@ -50,6 +38,7 @@ app.UseHttpsRedirection();
 app.UseRouting();
 
 app.UseAuthorization();
+app.MapControllers(); // Enables routing for [ApiController]
 
 app.MapStaticAssets();
 

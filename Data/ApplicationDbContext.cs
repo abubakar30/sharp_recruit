@@ -11,6 +11,7 @@ namespace sharp_recruit.Data
 
         // Add your DB sets here
         public DbSet<Candidate> Candidates { get; set; }
+        public DbSet<JobApplication> JobApplications { get; set; }
         public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -20,6 +21,8 @@ namespace sharp_recruit.Data
             modelBuilder.Entity<User>()
                 .Property(u => u.Role)
                 .HasDefaultValue("User");
+
+            modelBuilder.Entity<JobApplication>().ToTable("job_applications");
         }
     }
 }

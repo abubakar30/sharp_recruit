@@ -36,5 +36,20 @@ namespace sharp_recruit.Controllers
             return CreatedAtAction(nameof(GetCandidates), new { id = candidate.Id }, candidate);
         }
 
+        // DELETE: api/candidate/{id}
+        [HttpDelete("{id}")]
+        public IActionResult DeleteCandidate(int id)
+        {
+            var candidate = _context.Candidates.FirstOrDefault(c => c.Id == id);
+            if (candidate == null)
+            {
+                return NotFound();
+            }
+
+            _context.Candidates.Remove(candidate);
+            _context.SaveChanges();
+
+            return NoContent(); // 204 response
+        }
     }
 }
